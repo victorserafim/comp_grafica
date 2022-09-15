@@ -1,4 +1,3 @@
-
 #include <GL/glut.h>
 
 // Tamanho e posição inicial do quadrado
