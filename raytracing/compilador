@@ -1,0 +1,1 @@
+clang -g -o raytrace *.c -I ../../../include -I ./include -I ../include -I ../../include -I /usr/local/include -L /usr/local/lib -lGL -lGLU -lglut -lm
